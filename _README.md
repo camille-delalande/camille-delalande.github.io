@@ -1,3 +1,5 @@
+![Linux Build Status](https://github.com/camille-delalande/camille-delalande.github.io/actions/workflows/github-pages.yml/badge.svg)
+
 # Index by JekyllThemes.io – Instructions
 
 If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers.

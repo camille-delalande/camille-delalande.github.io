@@ -1,35 +1,24 @@
 ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: Camille Delalande
+subtitle: Architecte d’intérieur et designer basé à Paris.  Une architecture organique aux lignes épurées et un design poétique.
+description: Architecte d’intérieur et designer basé à Paris.  Une architecture organique aux lignes épurées et un design poétique.
+featured_image: /images/portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![Photo Camille Delalande](/images/portrait.jpg){: height="400"}
+_Camille Delalande_
 
-## Features
+Bientôt diplômée de l’ESAM Design, École supérieure des Arts Modernes de Paris, Camille Delalande se lance avec 
+passion dans la vie active avec l’envie de donner vie aux espaces. Riche de plusieurs expériences dans des cabinets 
+d’architecture et d’architecture d’intérieure, elle a pu acquérir une connaissance éclectique de la profession.
 
-Index is packed with powerful features to showcase your work:
+Parisienne moderne, sensible et dynamique, elle aime travailler les matières organiques pour un rendu épuré, dans 
+l’air du temps. Les lieux qu’elle conceptualise sont pensés comme des espaces à vivre, où les attentes du client sont 
+au cœur de sa réflexion. Les lignes qu’elle dessine sont sobres, les jeux de lumières délicats afin de sublimer les 
+volumes, le tout dans une grande rigueur et un souci du détail.
 
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Ses inspirations ? Elle les puise dans ses rencontres et expériences vécues dans son quotidien parisien ou lors de 
+ses nombreux voyages.
 
-## Get Index
-
-Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Si son art vous parle et que vous souhaitez entamer une discussion artistique pour l’un de vos projets, n’hésitez pas 
+à la contacter. Elle vous répondra avec le plus grand plaisir.
